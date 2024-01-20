@@ -1,4 +1,5 @@
 # LambdaFunction-HelloWorld
+![image](https://github.com/shaikshaz/LambdaFunction-HelloWorld/assets/154241222/0f6074d8-d550-4b3f-82cb-a2294ecb9f6e)
 
 
 SITUATION: To write a lambda function and for “Hello World” and to understand what a Lambda function is and what are the dependencies and 
